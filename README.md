@@ -4,7 +4,8 @@ Welcome to the **Agentic AI Course Assistant**! This repository contains a Capst
 
 Unlike standard static large language models, this application functions as a fully **Agentic System**—incorporating retrieval logic, dynamic execution routing, self-evaluation, and robust conversation memory.
 
-![Streamlit Interface Placeholder](/path/to/streamlit_ui_screenshot.png)
+![Streamlit App Interface - 1](./streamlit_ui_1.png)
+![Streamlit App Interface - 2](./streamlit_ui_2.png)
 
 ## Overview & Capabilities
 
@@ -24,7 +25,7 @@ The project solves the problem of providing students with 24/7 grounded academic
 * **Orchestration:** Langchain and LangGraph for cyclic state progression (`StateGraph`, `MemorySaver`).
 * **Vector Embeddings:** `SentenceTransformer` utilizing the `all-MiniLM-L6-v2` dimensionality model.
 
-![VS Code Output Placeholder](/path/to/vscode_terminal_screenshot.png)
+![VS Code Terminal Output](./vscode_terminal.png)
 
 ## Getting Started
 
