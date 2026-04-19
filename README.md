@@ -1,1 +1,1 @@
-# AI-Course-helperr
+# AI-Course-helper
