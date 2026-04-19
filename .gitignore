@@ -1,0 +1,7 @@
+.env
+__pycache__/
+.ipynb_checkpoints/
+scratch_pdf.py
+pdf_helper_out.txt
+pdf_report_out.txt
+read_pdf.py
