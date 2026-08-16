@@ -7,7 +7,7 @@ from langgraph.graph import StateGraph, END
 from langgraph.checkpoint.memory import MemorySaver
 import chromadb
 from sentence_transformers import SentenceTransformer
- 
+
 # 1. Knowledge Base Documents
 DOCUMENTS = [
     {
