@@ -1,7 +1,7 @@
 # Agentic AI Course Assistant
 
 Welcome to the **Agentic AI Course Assistant**! This repository contains a Capstone Project designed to act as an intelligent, autonomous tutor for 4th-year B.Tech students studying Agentic AI concepts.
-
+ 
 Unlike standard static large language models, this application functions as a fully **Agentic System**—incorporating retrieval logic, dynamic execution routing, self-evaluation, and robust conversation memory.
 
 ![Streamlit App Interface - 1](./streamlit_ui_1.png)
